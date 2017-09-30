@@ -1,6 +1,6 @@
 {
   "name": "html-to-text",
-  "version": "2.1.2",
+  "version": "2.1.2-post1",
   "description": "Advanced html to plain text converter",
   "main": "index.js",
   "scripts": {
@@ -22,7 +22,7 @@
   },
   "dependencies": {
     "he": "^1.0.0",
-    "htmlparser": "^1.7.7",
+    "htmlparser": "https://github.com/winfieldco/node-htmlparser/archive/v1.7.6-post1.tar.gz",
     "optimist": "^0.6.1",
     "underscore": "^1.8.3",
     "underscore.string": "^3.2.3"
